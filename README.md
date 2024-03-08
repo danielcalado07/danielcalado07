@@ -5,14 +5,6 @@
   With experience in both front-end and back-end development, I am constantly looking for ways to make the user experience more enjoyable and efficient.</p>
   &nbsp;  &nbsp;
 
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=danielcalado&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=danielcalado&show_icons=true&theme=radical&layout=compact" />
- </div>
-   &nbsp;
-  &nbsp;
-
 <div style="display:inline_block">
 
   <h3>Principais</h3>
